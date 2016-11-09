@@ -1,0 +1,118 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  background-color: #F7F7F9;
+  font-family: 'Montserrat', sans-serif;
+  color:#7D7D7D;
+  font-size: 12px;
+  line-height: 12px;
+  text-align: center;
+  background-image: url("http://24.media.tumblr.com/89f4fd80858b93e35062b860410ee57b/tumblr_n1qp37LVQE1s5gjtho1_500.gif");
+}
+
+h1 {
+  color: #FA7107;
+  font-size: 25px;
+  line-height: 20px;
+}
+
+h2 {
+  color: #666666;
+  font-size: 18px;
+  line-height: 10px;
+}
+
+h3 {
+  color: #666666;
+  font-size: 16px;
+  line-height: 12px;
+}
+
+p {
+  color: #BBBBBB;
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: lighter;
+}
+
+a {
+  text-decoration: none;
+  color: #BBBBBB;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+a:hover {
+  color: #FA7107;
+}
+
+i {
+  margin: 0 10px 10px 10px;
+}
+
+.fa {
+  font-size: 20px;
+  }
+
+td {
+  padding: 0 20px 0 0;
+}
+
+#image {
+  width: 150px;
+  padding: 5px 0 5px 0;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+#profile_picture {
+  border-radius: 50%;
+  border: 4px solid #F7F7F9;
+}
+
+.btn {
+ background-color: #FA7107 ;
+ padding: 10px;
+ text-decoration: none;
+ font-size: 14px;
+ border: 0;
+ color: white;
+ display: inline-block;
+ border-radius: 4px;
+
+}
+
+.btn:hover {
+ background-color: #FBCE41;
+ color: white;
+}
+
+.card {
+  background:#FFFFFF;
+  border: 1px solid #FAFAFA;
+  border-radius: 5px;
+  padding: 30px;
+  margin-top: 25px;
+  box-shadow: 0px 3px 5px -4px;
+}
+
+.card:hover {
+  background-image: url("http://i1104.photobucket.com/albums/h329/zorq1/Realistic-fire-animated-transparent-gif.gif")
+}
+
+.text-center{
+  text-align: center;
+}
+
+.list-inline {
+  padding-left: 0px;
+  list-style: none;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 40px;
+}
